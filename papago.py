@@ -30,8 +30,8 @@ def select_lang(lang_from, lang_to):
     return (source, target)
 
 def papago(txt, lang_from, lang_to):
-    client_id = "4HCjXxtgIURNvxvzjzqV"  # 개발자센터에서 발급받은 Client ID 값
-    client_secret = "h3tGED6Dsz"  # 개발자센터에서 발급받은 Client Secret 값
+    client_id = "YOUR_CLIENT_ID"  # 개발자센터에서 발급받은 Client ID 값
+    client_secret = "YOUR_CLIENT_SECRET"  # 개발자센터에서 발급받은 Client Secret 값
 
     encText = urllib.parse.quote(txt)
     source, target = select_lang(lang_from, lang_to)
