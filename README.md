@@ -27,8 +27,8 @@ Flask
 Naver NMT API
 
 ### Image
-![image](https://user-images.githubusercontent.com/49181231/83630865-7f44fa00-a5d7-11ea-8771-3bd0627a6905.png)
-![image](https://user-images.githubusercontent.com/49181231/83630877-823fea80-a5d7-11ea-854f-b9acc2adc3ac.png)
-![image](https://user-images.githubusercontent.com/49181231/83630887-866c0800-a5d7-11ea-9df7-82cf00a300d8.png)
-![image](https://user-images.githubusercontent.com/49181231/83630892-8835cb80-a5d7-11ea-855d-b711db8c7d8b.png)
-![image](https://user-images.githubusercontent.com/49181231/83630896-89ff8f00-a5d7-11ea-923b-7d040337ebf0.png)
+![image](https://user-images.githubusercontent.com/49181231/83630865-7f44fa00-a5d7-11ea-8771-3bd0627a6905.png){: width="100" height="100"}
+![image](https://user-images.githubusercontent.com/49181231/83630877-823fea80-a5d7-11ea-854f-b9acc2adc3ac.png){: width="100" height="100"}
+![image](https://user-images.githubusercontent.com/49181231/83630887-866c0800-a5d7-11ea-9df7-82cf00a300d8.png){: width="100" height="100"}
+![image](https://user-images.githubusercontent.com/49181231/83630892-8835cb80-a5d7-11ea-855d-b711db8c7d8b.png){: width="100" height="100"}
+![image](https://user-images.githubusercontent.com/49181231/83630896-89ff8f00-a5d7-11ea-923b-7d040337ebf0.png){: width="100" height="100"}
