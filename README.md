@@ -6,7 +6,7 @@ If you want to use this code, make sure your api server or container (ex Docker 
 
 and you should connect your API (In code, type your API ID and Secret code) with kakao skill server.
 
-And then, in your terminal
+And then, type in your terminal
 ```
 python app.py papago.py
 ```
