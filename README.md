@@ -27,9 +27,9 @@ Flask
 Naver NMT API
 
 ### Image
-<img src="https://user-images.githubusercontent.com/49181231/83630865-7f44fa00-a5d7-11ea-8771-3bd0627a6905.png" width="60%">
+![image](https://user-images.githubusercontent.com/49181231/83630865-7f44fa00-a5d7-11ea-8771-3bd0627a6905.png")
+![image](https://user-images.githubusercontent.com/49181231/83794437-f910dc80-a6d8-11ea-92e5-7229e9299b05.png)
+![image](https://user-images.githubusercontent.com/49181231/83794464-04fc9e80-a6d9-11ea-90b9-20f4b1aba6c0.png)
+![image](https://user-images.githubusercontent.com/49181231/83794488-0f1e9d00-a6d9-11ea-906e-5590a7ac66d6.png)
+![image](https://user-images.githubusercontent.com/49181231/83794508-1645ab00-a6d9-11ea-8a26-62b7808663d0.png)
 
-![image](https://user-images.githubusercontent.com/49181231/83630877-823fea80-a5d7-11ea-854f-b9acc2adc3ac.png)
-![image](https://user-images.githubusercontent.com/49181231/83630887-866c0800-a5d7-11ea-9df7-82cf00a300d8.png)
-![image](https://user-images.githubusercontent.com/49181231/83630892-8835cb80-a5d7-11ea-855d-b711db8c7d8b.png)
-![image](https://user-images.githubusercontent.com/49181231/83630896-89ff8f00-a5d7-11ea-923b-7d040337ebf0.png)
