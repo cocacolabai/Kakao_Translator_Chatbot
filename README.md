@@ -30,7 +30,7 @@ Flask
 Naver NMT API
 
 ### Image
-<img src="https://user-images.githubusercontent.com/49181231/83630865-7f44fa00-a5d7-11ea-8771-3bd0627a6905.png" width="60%">
+<img src="https://user-images.githubusercontent.com/49181231/83630865-7f44fa00-a5d7-11ea-8771-3bd0627a6905.png" width="80%">
 
 ![image](https://user-images.githubusercontent.com/49181231/83794437-f910dc80-a6d8-11ea-92e5-7229e9299b05.png)
 ![image](https://user-images.githubusercontent.com/49181231/83794464-04fc9e80-a6d9-11ea-90b9-20f4b1aba6c0.png)
