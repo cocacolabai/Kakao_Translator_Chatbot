@@ -14,7 +14,9 @@ python app.py papago.py
 ### Manual
 
 I want to recommend you, refer to my blog.
+
 https://yohai.tistory.com/56
+
 https://yohai.tistory.com/50
 
 Kakao Chatbot Setting is almost the same.
